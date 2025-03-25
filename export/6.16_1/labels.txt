@@ -1,0 +1,9 @@
+people
+animals
+plants
+food
+vehicles
+household
+buildings
+natural outdoor scenes
+acg

@@ -1,0 +1,9 @@
+people
+animals
+plants
+fruit and vegetables
+vehicles
+household
+buildings
+natural outdoor scenes
+vehicles
